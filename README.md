@@ -4,9 +4,9 @@
 Пользователь вводит строку и шаг сдвига (шаг может быть как положительным, так и отрицательным для расшифровки). Программа зашивровывает или зашифровывает строку, введенную пользователем, при помощи шифра Цезаря, т.е. производит сдвиг каждой буквы на заранее введенный шаг влево или вправо по алфавиту, при этом все остальные символы остаются неизменными.
 
 ## Скриншоты консоли после выполнения программы
-[![Скриншот №1](https://sun9-88.userapi.com/impg/2fthF8aMj46o6L8D5pwvlfgqDvO1EFOpPS0FEg/rnc9NphcOyI.jpg?size=1228x314&quality=96&sign=8281100c4641045872f1b6b1aac16851&type=album)
+![Скриншот №1](https://sun9-88.userapi.com/impg/2fthF8aMj46o6L8D5pwvlfgqDvO1EFOpPS0FEg/rnc9NphcOyI.jpg?size=1228x314&quality=96&sign=8281100c4641045872f1b6b1aac16851&type=album)
 
-[![Скриншот №2](https://sun9-76.userapi.com/impg/D-ETYaLrJUjkCiVzJ1V-P3rUQhefOM0QXJbFsA/E2b-DFg9RZE.jpg?size=1227x401&quality=96&sign=bbbeacade8ff0ee5642ce09435dcf81a&type=album)
+![Скриншот №2](https://sun9-76.userapi.com/impg/D-ETYaLrJUjkCiVzJ1V-P3rUQhefOM0QXJbFsA/E2b-DFg9RZE.jpg?size=1227x401&quality=96&sign=bbbeacade8ff0ee5642ce09435dcf81a&type=album)
 
 
 ## Среда программирования и инструкция по использованию
